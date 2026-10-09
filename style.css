@@ -134,7 +134,7 @@ h1 {
 }
 
 .inscricao p { color: #222d62; }
-.botao-final { width: 100%; overflow: hidden; padding: 7px 10px; font-size: 1rem; }
+.botao-final { width: 145; overflow: hidden; padding: 7px 10px; font-size: 1rem; }
 
 footer { padding: 24px; text-align: center; background: #171d3c; color: white; }
 
